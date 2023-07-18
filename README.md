@@ -1,4 +1,4 @@
-# Back-end test
+# Script to automate a php environment installation
 
 ## 💻 Hello there!
 
